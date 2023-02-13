@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Vatsal
+I am a python, flutter, HTML/CSS developer  
+You can contact me on vatsal2903@gmail.com
+#
