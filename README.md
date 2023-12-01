@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Vatsal  
-I am a python, flutter, HTML/CSS, react, Next.js developer   
+I am a Kotlin, flutter developer   
 You can contact me on vatsal2903@gmail.com
 #
